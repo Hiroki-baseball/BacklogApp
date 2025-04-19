@@ -1,0 +1,19 @@
+# 仮想環境
+.venv/
+venv/
+
+# Pythonキャッシュ
+__pycache__/
+
+# 環境変数ファイル
+.env
+backend/.env
+
+# コンパイルファイル
+*.pyc
+
+# node_modules（フロントエンド）
+frontend/node_modules/
+
+# フロントエンドのビルドファイル
+frontend/build/
